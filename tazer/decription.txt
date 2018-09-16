@@ -1,0 +1,1 @@
+Tazer knocks the attacked user out for an amout of time (See "knockout")
